@@ -14,5 +14,4 @@
 | [Creating a model to determine car price](projects/autos) | Разработка системы рекомендации стоимости автомобиля на основе его описания. |  ML,  Scikit-learn, lightgbm, gradient boosting, regression, Python, Pandas. |
 | [Predicting the number of taxi calls for the next hour](projects/taxi) | Разработка системы предсказания количества заказов. | ML, Scikit-learn, time series, regression, predictions, statsmodels, Python, Pandas. |
 | [Text analysis](projects/toxic_comments) | Определение токсичных (негативных) комментариев.| ML, NLP, Scikit-learn, BERT, nltk, tf-idf, Python, Pandas. |
-| [Postgre SQL](https://github.com/Danilov-Egor/Yandex_data_science/blob/main/projects/SQL.ipynb) | Важно понять предпочтения пользователей, покупающих билеты на разные направления. Вам предстоит изучить базу данных и проанализировать спрос пассажиров на рейсы в города, где проходят крупнейшие культурные фестивали.|
-| [Computer vision](https://github.com/Danilov-Egor/Yandex_data_science/blob/main/projects/computer_vision.ipynb) | Постройте модель, которая по фотографии определит приблизительный возраст человека. В вашем распоряжении набор фотографий людей с указанием возраста.|
+| [Computer vision](projects/age) | Построение модели, которая по фотографии определит приблизительный возраст человека.| ML, CV, Keras, image processing, neural networks, Python, Pandas. |
