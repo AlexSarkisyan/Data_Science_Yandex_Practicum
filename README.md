@@ -1,4 +1,4 @@
-# Yandex praktikum Projects
+# Yandex prakticum Projects
 ### Below you can find projects that I completed 
 
 | Project | Description | skills and tools |
