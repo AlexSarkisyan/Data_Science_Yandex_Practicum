@@ -3,6 +3,7 @@
 
 | Project | Description | skills and tools |
 | :-------| :-----------| :-----------|
+| [SQL queries to the database to analyze data on funds and investments.](projects/SQL) | Нужно написать запросы к базе для анализа данных о фондах и инвестициях.| SQL. |
 | [Borrower reliability survey](projects/borrower_reliability_survey) | На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок. | Python, Pandas, Matplotlib, EDA. |
 | [Research of apartments for sale](projects/research_of_apartments_for_sale) | Используя данные сервиса Яндекс.Недвижимость (архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктов за несколько лет), определить рыночную стоимость объектов недвижимости и типичные параметры квартир. | Python, Pandas, Matplotlib, EDA. |
 | [Finding the best tariff for a cellular company](projects/mobile_company) |  На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа. | Python, Pandas, Matplotlib, NumPy, SciPy, testing of statistical hypotheses. |
